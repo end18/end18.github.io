@@ -1,0 +1,80 @@
+{
+	"bgImageList" : [
+		{
+			"filename" : "1.jpg",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "2.jpg",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "3.jpg",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "4.jpg",
+			"sytle" : "center-fit-width"
+		},
+				{
+			"filename" : "5.jpg",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "6.jpg",
+			"sytle" : "center-fit-width"
+		},
+				{
+			"filename" : "7.jpg",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "8.jpg",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "9.png",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "10.png",
+			"sytle" : "center-fit-height"
+		},
+		{
+			"filename" : "11.png",
+			"sytle" : "center-fit-height"
+		},
+		{
+			"filename" : "12.png",
+			"sytle" : "center-fit-height"
+		},
+				{
+			"filename" : "13.jpg",
+			"sytle" : "center-fit-height"
+		},
+		{
+			"filename" : "14.gif",
+			"sytle" : "center-fit-width"
+		},	
+				{
+			"filename" : "15.jpg",
+			"sytle" : "center-fit-width"
+		},
+		{
+			"filename" : "16.png",
+			"sytle" : "center-fit-width"
+		},		
+		{
+			"filename" : "17.png",
+			"sytle" : "center-fit-width"
+		},		
+		{
+			"filename" : "18.png",
+			"sytle" : "center-fit-width"
+		},	
+				{
+			"filename" : "19.png",
+			"sytle" : "center-fit-height"
+		}
+	]
+}
